@@ -14,10 +14,11 @@ Process Blog
   
 
 Website Version (Wireframe)
-![moblie](https://user-images.githubusercontent.com/91300625/187047075-c74fcca8-9f03-4495-a6ad-a6c14ae2b7b2.jpeg)
+![Website](https://user-images.githubusercontent.com/91300625/187047167-6dce282f-3bdc-4e18-8ecf-6d9d3b32862f.jpeg)
 
 
 
 Moblie Version (Wireframe)
   
-  
+  ![moblie](https://user-images.githubusercontent.com/91300625/187047170-210db905-e52e-4d37-928f-91de4a756d85.jpeg)
+
