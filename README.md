@@ -1,20 +1,23 @@
-# FrontEnd_Blog
-Blog
+# Frontend_Blog/Journal
 
-# A paragraph or more in your process blog, describing the overall concept/theme of your planned portal.
+Alexander Chan 
+
+Process Blog
+(Work in Progress)
+  - Be clear and concise
+  - Document your thoughts, ideas, inspriation and questions
+  - Lastly summarize your progress for all ATLAS classes
+
+# Milestone 1
+
+  This blog will contain all the details of projects that, I work on and finish in front end development. The theme is to entail some creative aspects of website deisgns that are unique and eye catching at a creative level. The concept is to be neatly orgainzed and simplistic for the audience to get engaged.
+  
+
+Website Version (Wireframe)
+![moblie](https://user-images.githubusercontent.com/91300625/187047075-c74fcca8-9f03-4495-a6ad-a6c14ae2b7b2.jpeg)
 
 
 
- # A wireframe or visual mockup of the intended user interface design.
-
-
-
-# The design must accommodate all screen sizes, from mobile to desktop. You can either visually indicate this in the mockup (make it clear to me), or you can describe it in words in your process blog.
-
-
-
-# The architecture and user interaction flow must also be clearly communicated either through words or visually through the wireframe/mockup.
-
-
-
-# The submission for milestone 1 is a link to your process blog entry specifically for "Class Portal, Milestone 1."
+Moblie Version (Wireframe)
+  
+  
