@@ -23,7 +23,8 @@ Website Version (Wireframe)
 ![website_version](https://user-images.githubusercontent.com/91300625/187488426-4eeb8a12-c022-49db-b329-2b0b57eb1788.PNG)
 
 Links to other pages
-![Other_pages](https://user-images.githubusercontent.com/91300625/187494369-b8f45e18-c17b-4131-8d78-bca55b733f5d.PNG)
+
+![Other_pages_1](https://user-images.githubusercontent.com/91300625/187494864-276aa9b6-3ab4-4eac-acb2-3986e918caac.PNG)
 
 
 
