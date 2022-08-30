@@ -19,13 +19,15 @@ Process Blog
   
 
 Website Version (Wireframe)
-![Website](https://user-images.githubusercontent.com/91300625/187047167-6dce282f-3bdc-4e18-8ecf-6d9d3b32862f.jpeg)
+![website_version](https://user-images.githubusercontent.com/91300625/187488426-4eeb8a12-c022-49db-b329-2b0b57eb1788.PNG)
+
 
 
 
 Moblie Version (Wireframe)
-  
-  ![moblie](https://user-images.githubusercontent.com/91300625/187047170-210db905-e52e-4d37-928f-91de4a756d85.jpeg)
+  ![moblie_version](https://user-images.githubusercontent.com/91300625/187488466-0a939a0d-8f3a-4ab0-a231-c6ffa2f791db.PNG)
+
+
   
   (link)
   https://acturnup.github.io/Frontend_website/
