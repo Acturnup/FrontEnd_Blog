@@ -47,11 +47,11 @@ I decided to change the format of the page by adding in boxes for each section b
 The problem I had run into was making sure the whole page was filled with a black background without white space. I acheived to fix this by finding online that you can add a height of 100vh being more or less. 
 (https://developer.mozilla.org/en-US/docs/Web/CSS/length)
 
-Another problem I had having spacing for the boxes on a different size screen they way I acheived to fix this was using flex:column, gap:50px, and using justify content: space-around.
+Another, problem I had was creating space for the boxes on a different size screen they way I acheived to fix this was using flex:column, gap:50px, and using justify content: space-around.
 
 (https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
-Lastly I wanted to add a list to my Lab page and all the other pages and removed the bullet points, I found how to remove with some research where I added list-style:none 
+Lastly I wanted to add a list to my Lab page and all the other pages. I wanted to removed the bullet points, I found out how to remove with some research where I added list-style:none 
 
 (https://www.computerhope.com/issues/ch001704.htm#:~:text=Adding%20the%20%22list%2Dstyle%3A,removes%20any%20bullet%20or%20number.)
 
