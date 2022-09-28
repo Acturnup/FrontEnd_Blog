@@ -2,7 +2,7 @@
 
 # Milestone 1 
 
-1. Overall description of the project:
+<!-- 1. Overall description of the project: -->
     The topic/purpose of the website: The purpose of this website is to help students be more engaged with events and 
                                       be more compelled to use this as a resoruce to find upcoming events in the University area. 
     Your inspiration for the project: My inspiration of this project is that CU send out emails with very boring and dull information about upcoming events. That I feel
