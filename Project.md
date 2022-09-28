@@ -35,26 +35,25 @@ a low-fidelity mockup in a UX design tool of you choice.
     - I will use a flex box and a nav bar to help create a responsive website that can support Computer Screen, tablets, and phones. 
 
 6. Your goals for the project should be split up by what you think are goals for:
-    - Prototyping/proof of concept
+      *Prototyping/proof of concept*
           - should have nav bar (home,category,map)
           - list of events
           - Pages that have a some details for (home, category, map)
           
-    - MVP (Minimum Viable Product)
+     *MVP (Minimum Viable Product)*
             - At least have nav bar that link to pages
             - At least have a drop down menu for categories 
             - At least have a map
             - Events are orgainzed and have details
             - Categorize events
             
-    - Stretch goals
+    *Stretch goals*
             - Making the interface appealing with a background that moves.
             - A styled page with a nice set of colors. 
             - Making a map that stores certain events with details and can move around. 
             - Allow users to fill out a event that can be created within the website. 
             - Create a button to allow users to see how many people are intrested in a event.
             - Allow users to send feedback about the event
-            -
             
             
             
