@@ -17,9 +17,9 @@ a low-fidelity mockup in a UX design tool of you choice.
 
           
 
-3.Description of how you intend to use JavaScript to significantly enhance the user experience of your website.
+3. Description of how you intend to use JavaScript to significantly enhance the user experience of your website.
 
-4.Any content or information sources you intend to draw upon, start thinking about them early and include them in the proposal if possible.
+4. Any content or information sources you intend to draw upon, start thinking about them early and include them in the proposal if possible.
 
 5. Describe or show how you intend to make the website responsive to different screen sizes and environments.
 
