@@ -3,13 +3,13 @@
 # Milestone 1 
 
  1. Overall description of the project:
-    *The topic/purpose of the website:* The purpose of this website is to help students be more engaged with events and 
+    -*The topic/purpose of the website:* The purpose of this website is to help students be more engaged with events and 
                                       be more compelled to use this as a resoruce to find upcoming events in the University area. 
-    Your inspiration for the project: My inspiration of this project is that CU send out emails with very boring and dull information about upcoming events. 
+    -Your inspiration for the project: My inspiration of this project is that CU send out emails with very boring and dull information about upcoming events. 
                                       That I feel no one really reads. 
                                       I believe there are so many events that CU provides that, I hope to help users catergozise them and make it easier to read
                                       and find out about them in a apealling way. 
-    The intended audience for your project: 
+    -The intended audience for your project: 
                                       The audience that I am targeting is University Students.
 
 2. Wireframe that shows the design and flow of your site. This could be anywhere from hand drawn sequence of images to
