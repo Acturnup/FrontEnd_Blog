@@ -55,4 +55,19 @@ a low-fidelity mockup in a UX design tool of you choice.
             - Allow users to send feedback about the event
             
             
-            
+# Milestone 2 
+You should turn in a process blog entry detailing your process on the project up to this point. You should have at least a prototype or a proof of concept for the core functionality of your project.  You should be reflecting on your goals that you laid out in milestone 1, and compare them to the progress that you have made up to this point.
+
+
+WIP
+   1. So far I have completed my prototyping and proof of concept. Which was creating a navigation bar (Home,Events and Map) this includes a logo next to it as well.
+   2. I have created a page with a list of events. 
+   3. I made home page witha placeholder for featured events and text as well as a map at the bottom.
+   4. I have also implemented an API which is mapbox for a interactive map.(part of my *MVP)
+   5. The nav bar links to pages.
+
+
+
+Added in
+ 1. Added in a footer with a way to contact me.
+ 2. Added in some styles for the page and colors.
