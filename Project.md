@@ -71,3 +71,6 @@ WIP
 Added in
  1. Added in a footer with a way to contact me.
  2. Added in some styles for the page and colors.
+
+Link to prototype: https://acturnup.github.io/Altas_frontend/Project_1/map.html
+
