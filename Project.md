@@ -80,9 +80,9 @@ Milestone 4 is a reflection entry in your process blog. Reflect on your creative
 
 The goals from milestone 1 was to for the MVP was to acheive 
 
-            - At least have nav bar that link to pages
-            - At least have a map
-            - Events are orgainzed and have details
-            - Categorize events
+            At least have nav bar that link to pages
+            At least have a map
+            Events are orgainzed and have details
+            Categorize events
             
-    I was able to acheive all of these. The biggest challenge was making implementing the map as well as the calendar which was considered a strech goal for me. The other goals I wanted to achieve were in my strech goals. However, I didnt really have enough time to work on those. I was able to take away some cool ideas of how to implement a API for maps and setting times/days for events on a calendar. Overall, I felt like I tookaway some valueble tools that I can later implement into my projects for the future. I also learned some unique functions for JSON. 
+I was able to acheive all of these. The biggest challenge was making implementing the map as well as the calendar which was considered a strech goal for me. The other goals I wanted to achieve were in my strech goals. However, I didnt really have enough time to work on those. I was able to take away some cool ideas of how to implement a API for maps and setting times/days for events on a calendar. Overall, I felt like I tookaway some valueble tools that I can later implement into my projects for the future. I also learned some unique functions for JSON. 
