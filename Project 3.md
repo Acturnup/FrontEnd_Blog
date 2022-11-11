@@ -19,6 +19,9 @@ Hover Effect on images: https://github.com/ciar4n/imagehover.css
 
 Describe what you anticipate your personal contributions to the team and the project will be in the end.
 Your goals for the project should be split up by what you think are goals for:
+
+
+
       Prototyping/proof of concept
         - Prototyped out in figma to ensure we are both on the same page as far as the content we want on the site.
         - Selecting a appropriate color palate 
