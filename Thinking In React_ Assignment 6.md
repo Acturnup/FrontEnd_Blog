@@ -46,7 +46,7 @@ These state's will be rendered *Task Input bar* & *Task Table*.
 ----- 
 Another state lives is *Task Table*
 this.state = {checkedBox: false} to *Task Table* constructor to reflect the inital state.
-Next, it will pass the checkedBox to *Task Table* and *Task row* as a prop.
+Next, it will pass the checkedBox to *Task Table* and *Task Row* as a prop.
 
 
 
