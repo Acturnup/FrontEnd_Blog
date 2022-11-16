@@ -2,6 +2,8 @@
 
 
 1. Break the UI into a component heirarchy: break down the mock-up that you created into a list of components and describe how you anticipate each component to interact together.
+
+
 ![image](https://user-images.githubusercontent.com/91300625/202063080-c6135f49-b6cc-4fca-b669-be987cefd4d2.png)
 
  {category: "High Priority", finished: true, task: "Make a reservation to Japango"},
