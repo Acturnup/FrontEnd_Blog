@@ -13,4 +13,5 @@
 
 
 
-3 and 4. Identify the minimal state representation of your app and identify where state should live: identify where you might need to keep state of something; in which component will it be stored, and how will it be accessed? Try to not repeat data in multiple places, and keep the state representation as minimal as possible.
+3 and 4. Identify the minimal state representation of your app and identify where state should live: 
+<sub> identify where you might need to keep state of something; in which component will it be stored, and how will it be accessed? Try to not repeat data in multiple places, and keep the state representation as minimal as possible. </sub>
