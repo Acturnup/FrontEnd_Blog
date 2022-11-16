@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/91300625/202063080-c6135f49-b6cc-4fca-b669-be987cefd4d2.png)
 
  {category: "High Priority", finished: true, task: "Make a reservation to Japango"},
+ 
  {category: "High Priority", finished: false, task: "Do Front end homework"},
 
 
