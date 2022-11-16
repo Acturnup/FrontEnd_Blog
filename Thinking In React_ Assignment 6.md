@@ -15,3 +15,29 @@
 
 3 and 4. Identify the minimal state representation of your app and identify where state should live:
 <sub>identify where you might need to keep state of something; in which component will it be stored, and how will it be accessed? Try to not repeat data in multiple places, and keep the state representation as minimal as possible. </sub>
+
+
+Peices of the To-Do-List
+
+  - The task text the user has entered
+  - The value of the high priority box
+  - The value of the users task
+  - The filtered list catergory 
+  - Heading of the section
+  - Heading for each category
+
+
+Our state is:
+
+ - The task text the user has entered
+ - The value of the high priority box
+ - The value of the users task
+
+
+I have decided that my state lives in *Filterable To-do-List Table*  
+this.state = {filterText: '', highPriority: false} to *Filterable To-do-List Table* constructor to reflect the intial state. 
+Next, pass the filterText and High priority to *TaskTable* and *Task input bar* as a prop.
+
+Lastly, use the props to filter the rows in the TaskTable and set the values of the form fields in *TaskInputbar*.
+
+
