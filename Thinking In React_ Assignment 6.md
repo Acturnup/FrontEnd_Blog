@@ -43,6 +43,7 @@ Lastly, use the props to filter the rows in the T*ask Table* and set the values 
 
 These state's will be rendered *Task Input bar* & *Task Table*.
 
+----- 
 Another state lives is *Task Table*
 this.state = {checkedBox: false} to *Task Table* constructor to reflect the inital state.
 Next, it will pass the checkedBox to *Task Table* and *Task row* as a prop.
