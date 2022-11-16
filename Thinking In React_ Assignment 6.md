@@ -33,7 +33,7 @@ Our state is:
  - The value of the high priority box
  - The value of the users task
 
-
+---
 I have decided that my state lives in *Filterable To-do-List Table*  
 this.state = {filterText: '', highPriority: false} to *Filterable To-do-List Table* constructor to reflect the intial state. 
 Next, pass the filterText and High priority to *Task Table* and *Task input bar* as a prop.
