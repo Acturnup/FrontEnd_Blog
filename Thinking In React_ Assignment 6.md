@@ -1,7 +1,8 @@
 ## Plan To-do-list ##
 
 
-1. Break the UI into a component heirarchy:  <sub> break down the mock-up that you created into a list of components and describe how you anticipate each component to interact together. </sub>
+1. Break the UI into a component heirarchy:  
+<sub> break down the mock-up that you created into a list of components and describe how you anticipate each component to interact together. </sub>
 
 
 ![image](https://user-images.githubusercontent.com/91300625/202063080-c6135f49-b6cc-4fca-b669-be987cefd4d2.png)
