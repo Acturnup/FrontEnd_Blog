@@ -36,8 +36,10 @@ Our state is:
 
 I have decided that my state lives in *Filterable To-do-List Table*  
 this.state = {filterText: '', highPriority: false} to *Filterable To-do-List Table* constructor to reflect the intial state. 
-Next, pass the filterText and High priority to *TaskTable* and *Task input bar* as a prop.
+Next, pass the filterText and High priority to *Task Table* and *Task input bar* as a prop.
 
-Lastly, use the props to filter the rows in the TaskTable and set the values of the form fields in *TaskInputbar*.
+Lastly, use the props to filter the rows in the T*ask Table* and set the values of the form fields in *TaskInputbar*.
+
+These state's will be rendered *Task Input bar* & *Task Table*.
 
 
