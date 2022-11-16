@@ -5,7 +5,7 @@
 <sub> break down the mock-up that you created into a list of components and describe how you anticipate each component to interact together. </sub>
 
 
-![image](https://user-images.githubusercontent.com/91300625/202063080-c6135f49-b6cc-4fca-b669-be987cefd4d2.png)
+![image](https://user-images.githubusercontent.com/91300625/202065146-4a0768c6-9fdb-4ca1-b699-844f0e42f12d.png)
 
  {category: "High Priority", finished: true, task: "Make a reservation to Japango"},
  
