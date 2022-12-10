@@ -38,5 +38,21 @@ Your goals for the project should be split up by what you think are goals for:
         - New day, new recipe with the date displayed at the top right
 
 
+# Milestone 4
+Milestone 4 is a reflection entry in your process blog. 
+Reflect on your creative approach to the project as well as your technical approach. 
+Compare your intended goals and timeline in milestone 1 to the timeline on which you actually achieved (or did not achieve) those goals. 
+Reflect on the challenges that you overcame as well as the ones you didn't. 
+Talk about any new tools that you've added to your creative toolkit.
+And include any other major takeaways from your project overall.
 
+In our creative approach we made a wireframe that constructed what we exactly wanted to make and have as a visual. We attempting to make this and got them to display a flex of columns with a hover which would show the name as well as some headers. However, we struggled to make the hover display another window and connecting components. So we decided to make some changes to our design in whole to hover and show the name.
 
+For our intended goals, the things we didnt accomplish was making another window show as you hover over the certain food. However, we were able to impelement a API to show recipes, and we were able to have that fetch all the information as we had organized, this was one of our strech goals.
+We were able to Produce 10 recipes, have pictures and hover effects of the name. We were also able to implement a back button with the name of the recipe and the ingredents which you could check off, including a source button for more information.
+
+The challenges we encountered was styling the page, using states and connecting the components all together as well as implementing the API which was a challenge as we need to change out our own data with the API ids.
+
+The new tools were adding in the API and learnign about the toggle states for components with if/else statements.
+
+Overall, react had a hard learning curve and was diffuclt to grasp. Creating new components were a challenge and processing the things we wanted to happen were not as easy as we had thought. Learning together was also something I had never done with coding so this was a great experince for me to get a taste of collaboration. Together we had learned a lot and had strong communcation. Experincing react showed me a different way of thinking about developing a page with different components that play a different role. I was glad to get this experince and happy with our results. 
