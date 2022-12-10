@@ -39,13 +39,6 @@ Your goals for the project should be split up by what you think are goals for:
 
 
 # Milestone 4
-Milestone 4 is a reflection entry in your process blog. 
-Reflect on your creative approach to the project as well as your technical approach. 
-Compare your intended goals and timeline in milestone 1 to the timeline on which you actually achieved (or did not achieve) those goals. 
-Reflect on the challenges that you overcame as well as the ones you didn't. 
-Talk about any new tools that you've added to your creative toolkit.
-And include any other major takeaways from your project overall.
-
 In our creative approach we made a wireframe that constructed what we exactly wanted to make and have as a visual. We attempting to make this and got them to display a flex of columns with a hover which would show the name as well as some headers. However, we struggled to make the hover display another window and connecting components. So we decided to make some changes to our design in whole to hover and show the name.
 
 For our intended goals, the things we didnt accomplish was making another window show as you hover over the certain food. However, we were able to impelement a API to show recipes, and we were able to have that fetch all the information as we had organized, this was one of our strech goals.
